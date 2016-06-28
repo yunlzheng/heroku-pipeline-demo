@@ -1,0 +1,11 @@
+{
+  "name": "Hello Tornado",
+  "description": "The 'hello, world' for a Tornado App",
+  "keywords": [
+    "python",
+    "tornado"
+  ],
+  "website": "http://www.jamesward.com",
+  "repository": "https://github.com/yunlzheng/heroku-pipeline-demo.git",
+  "logo": "https://nodejs.org/images/logos/nodejs.png"
+}
